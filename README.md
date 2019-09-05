@@ -58,6 +58,10 @@ https://arxiv.org/pdf/1802.05983.pdf
 Ricky T. Q. Chen, Xuechen Li, Roger Grosse, David Duvenaud
 https://arxiv.org/abs/1802.04942
 
+15. WaveNet: A Generative Model for Raw Audio
+Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu
+https://arxiv.org/abs/1609.03499
+
 
 
 
