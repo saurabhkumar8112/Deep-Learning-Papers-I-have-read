@@ -54,6 +54,10 @@ https://arxiv.org/abs/1805.08318
 13. Disentangling by Factorising Hyunjik Kim, Andriy Mnih
 https://arxiv.org/pdf/1802.05983.pdf
 
+14. Isolating Sources of Disentanglement in Variational Autoencoders
+Ricky T. Q. Chen, Xuechen Li, Roger Grosse, David Duvenaud
+https://arxiv.org/abs/1802.04942
+
 
 
 
