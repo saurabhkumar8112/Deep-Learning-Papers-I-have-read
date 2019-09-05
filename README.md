@@ -97,6 +97,16 @@ https://arxiv.org/abs/1606.03657
 , Max Welling
 https://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models.pdf
 
+21. ADVERSARIALLY LEARNED INFERENCE
+Vincent Dumoulin1
+, Ishmael Belghazi1
+, Ben Poole2
+Olivier Mastropietro1
+, Alex Lamb1
+, Martin Arjovsky3
+Aaron Courville1†
+https://arxiv.org/pdf/1606.00704.pdf
+
 
 
 
