@@ -66,6 +66,10 @@ https://arxiv.org/abs/1802.04942
 Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu
 https://arxiv.org/abs/1609.03499
 
+16. Mode matching in GANs through latent space learning and inversion
+Deepak Mishra, Prathosh A. P., Aravind Jayendran, Varun Srivastava, Santanu Chaudhury
+https://arxiv.org/abs/1811.03692
+
 
 
 
