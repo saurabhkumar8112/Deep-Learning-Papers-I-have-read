@@ -83,6 +83,10 @@ https://arxiv.org/abs/1811.03692
 Architectures
 http://proceedings.mlr.press/v27/baldi12a/baldi12a.pdf
 
+18. GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models
+Jiaxuan You, Rex Ying, Xiang Ren, William L. Hamilton, Jure Leskovec
+https://arxiv.org/abs/1802.08773
+
 
 
 
