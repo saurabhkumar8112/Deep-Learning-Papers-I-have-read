@@ -20,6 +20,16 @@ https://arxiv.org/abs/1609.04112
 Naftali Tishby, Noga Zaslavsky
 https://arxiv.org/abs/1503.02406
 
+6. Adversarial Training Methods for Semi-Supervised Text Classification
+Takeru Miyato, Andrew M. Dai, Ian Goodfellow
+https://arxiv.org/pdf/1605.07725.pdf
+
+7. Attention Is All You Need
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
+https://arxiv.org/abs/1706.03762
+
+
+
 # B. Generative Models
 1. LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS, Andrew Brock, Jeff Donahue, Karen Simonyan
 https://arxiv.org/pdf/1809.11096.pdf
