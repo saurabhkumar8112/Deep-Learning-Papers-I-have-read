@@ -1,4 +1,5 @@
 # Deep-Learning-Papers-I-have-read
+Note : I take the responsibility that all the information present here is true and I have read all the given mentioned papers to the best of my knowledge.
 # A. General Deep Learning and Classical Machine Learning
 
 1. Approximation by Superpositions of a Sigmoidal Function*
