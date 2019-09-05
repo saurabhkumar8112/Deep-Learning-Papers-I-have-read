@@ -1,13 +1,22 @@
 # Deep-Learning-Papers-I-have-read
-# A. General Deep Learning
+# A. General Deep Learning and Classical Machine Learning
 
-1. Interpretable Convolutional Neural Networks via Feedforward Design,C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen.
+1. Approximation by Superpositions of a Sigmoidal Function*
+G. Cybenko
+https://pdfs.semanticscholar.org/05ce/b32839c26c8d2cb38d5529cf7720a68c3fab.pdf
+
+2. GradientBased Learning Applied to Document
+Recognition
+Yann LeCun Leon Bottou Yoshua Bengio and Patrick Haner
+http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
+
+3. Interpretable Convolutional Neural Networks via Feedforward Design,C.-C. Jay Kuo, Min Zhang, Siyang Li, Jiali Duan, Yueru Chen.
 https://arxiv.org/abs/1810.02786
 
-2. Understanding Convolutional Neural Networks with A Mathematical Model,C.-C. Jay Kuo
+4. Understanding Convolutional Neural Networks with A Mathematical Model,C.-C. Jay Kuo
 https://arxiv.org/abs/1609.04112
 
-3. Deep Learning and the Information Bottleneck Principle
+5. Deep Learning and the Information Bottleneck Principle
 Naftali Tishby, Noga Zaslavsky
 https://arxiv.org/abs/1503.02406
 
@@ -69,6 +78,12 @@ https://arxiv.org/abs/1609.03499
 16. Mode matching in GANs through latent space learning and inversion
 Deepak Mishra, Prathosh A. P., Aravind Jayendran, Varun Srivastava, Santanu Chaudhury
 https://arxiv.org/abs/1811.03692
+
+17. Autoencoders, Unsupervised Learning, and Deep
+Architectures
+http://proceedings.mlr.press/v27/baldi12a/baldi12a.pdf
+
+
 
 
 
