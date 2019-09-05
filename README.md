@@ -178,6 +178,7 @@ https://arxiv.org/pdf/1708.03436.pdf
 10. Doc2hash: Learning Discrete Latent Variables for Document Retrieval
 Yifei Zhang,
 Hao Zhu
+https://www.aclweb.org/anthology/N19-1232
 
 
 
