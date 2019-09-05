@@ -7,6 +7,10 @@ https://arxiv.org/abs/1810.02786
 2. Understanding Convolutional Neural Networks with A Mathematical Model,C.-C. Jay Kuo
 https://arxiv.org/abs/1609.04112
 
+3. Deep Learning and the Information Bottleneck Principle
+Naftali Tishby, Noga Zaslavsky
+https://arxiv.org/abs/1503.02406
+
 # B. Generative Models
 1. LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS, Andrew Brock, Jeff Donahue, Karen Simonyan
 https://arxiv.org/pdf/1809.11096.pdf
