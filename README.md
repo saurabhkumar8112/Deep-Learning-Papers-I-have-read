@@ -117,6 +117,41 @@ Olivier Mastropietro1
 Aaron Courville1†
 https://arxiv.org/pdf/1606.00704.pdf
 
+# C. Language Models, Text and Document Classification using Deep Learning
+1. Sequence to Sequence Learning with Neural Networks
+Ilya Sutskever, Oriol Vinyals, Quoc V. Le
+https://arxiv.org/abs/1409.3215
+
+2. Attention-Based Bidirectional Long Short-Term Memory Networks for
+Relation Classification
+Peng Zhou, Wei Shi, Jun Tian, Zhenyu Qi∗
+, Bingchen Li, Hongwei Hao, Bo Xu
+https://www.aclweb.org/anthology/P16-2034
+
+3. Hierarchical Attention Networks for Document Classification
+Zichao Yang1
+, Diyi Yang1
+, Chris Dyer1
+, Xiaodong He2
+, Alex Smola1
+, Eduard Hovy1
+https://aclweb.org/anthology/N16-1174
+
+4. Convolutional Neural Networks for Sentence Classification Yoon Kim
+https://arxiv.org/abs/1408.5882
+
+5. ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs
+Wenpeng Yin, Hinrich Schütze, Bing Xiang, Bowen Zhou
+https://arxiv.org/abs/1512.05193
+
+7. RMDL: Random Multimodel Deep Learning for Classification
+Kamran Kowsari, Mojtaba Heidarysafa, Donald E. Brown, Kiana Jafari Meimandi, Laura E. Barnes
+https://arxiv.org/abs/1805.01890
+
+8. Neural Machine Translation by Jointly Learning to Align and Translate
+Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio
+https://arxiv.org/abs/1409.0473
+
 
 
 
