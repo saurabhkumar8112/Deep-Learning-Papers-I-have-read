@@ -91,6 +91,12 @@ https://arxiv.org/abs/1802.08773
 Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel
 https://arxiv.org/abs/1606.03657
 
+20. Semi-supervised Learning with Deep Generative Models, Diederik P. Kingma∗
+, Danilo J. Rezende†
+, Shakir Mohamed†
+, Max Welling
+https://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models.pdf
+
 
 
 
