@@ -117,6 +117,24 @@ Olivier Mastropietro1
 Aaron Courville1†
 https://arxiv.org/pdf/1606.00704.pdf
 
+22. High-Fidelity Image Generation With Fewer Labels
+Mario Lucic *  Michael Tschannen *  Marvin Ritter *  Xiaohua Zhai  Olivier Bachem Sylvain Gelly 
+http://proceedings.mlr.press/v97/lucic19a/lucic19a.pdf
+
+23. Self-Supervised GANs via Auxiliary Rotation Loss
+Ting Chen∗,
+Xiaohua Zhai,
+Marvin Ritter
+https://arxiv.org/abs/1811.11212
+
+24. Disconnected Manifold Learning for Generative Adversarial Networks
+Mahyar Khayatkhoei, Ahmed Elgammal, Maneesh Singh
+https://arxiv.org/abs/1806.00880
+
+25.Improved Techniques for Training GANs
+Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen
+https://arxiv.org/abs/1606.03498
+
 # C. Language Models, Text and Document Classification using Deep Learning
 1. Sequence to Sequence Learning with Neural Networks
 Ilya Sutskever, Oriol Vinyals, Quoc V. Le
@@ -151,6 +169,15 @@ https://arxiv.org/abs/1805.01890
 8. Neural Machine Translation by Jointly Learning to Align and Translate
 Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio
 https://arxiv.org/abs/1409.0473
+
+9. Variational Deep Semantic Hashing for Text Documents
+Suthee Chaidaroon, 
+Yi Fang
+https://arxiv.org/pdf/1708.03436.pdf
+
+10. Doc2hash: Learning Discrete Latent Variables for Document Retrieval
+Yifei Zhang,
+Hao Zhu
 
 
 
