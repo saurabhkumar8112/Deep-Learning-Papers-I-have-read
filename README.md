@@ -87,6 +87,10 @@ http://proceedings.mlr.press/v27/baldi12a/baldi12a.pdf
 Jiaxuan You, Rex Ying, Xiang Ren, William L. Hamilton, Jure Leskovec
 https://arxiv.org/abs/1802.08773
 
+19. InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
+Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel
+https://arxiv.org/abs/1606.03657
+
 
 
 
