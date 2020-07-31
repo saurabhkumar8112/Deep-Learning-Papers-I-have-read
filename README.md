@@ -143,7 +143,7 @@ https://arxiv.org/abs/1811.11212
 Mahyar Khayatkhoei, Ahmed Elgammal, Maneesh Singh
 https://arxiv.org/abs/1806.00880
 
-25.Improved Techniques for Training GANs
+25. Improved Techniques for Training GANs
 Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen
 https://arxiv.org/abs/1606.03498
 
