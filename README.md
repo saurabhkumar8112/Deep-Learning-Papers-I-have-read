@@ -29,7 +29,18 @@ https://arxiv.org/pdf/1605.07725.pdf
 Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
 https://arxiv.org/abs/1706.03762
 
+8. Visualizing Data using t-SNE
+Laurens van der Maaten, Geoffrey Hinton 
+http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
 
+9. Neighbourhood Components Analysis
+Jacob Goldberger, Sam Roweis, Geoff Hinton, Ruslan Salakhutdinov
+https://www.cs.toronto.edu/~hinton/absps/nca.pdf
+
+10. How transferable are features in deep neural
+networks?
+Jason Yosinski,1 Jeff Clune,2 Yoshua Bengio,3 and Hod Lipson4
+https://arxiv.org/pdf/1411.1792.pdf
 
 # B. Generative Models
 1. LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS, Andrew Brock, Jeff Donahue, Karen Simonyan
@@ -135,6 +146,13 @@ https://arxiv.org/abs/1806.00880
 25.Improved Techniques for Training GANs
 Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen
 https://arxiv.org/abs/1606.03498
+
+26. EXPLAINING AND HARNESSING
+ADVERSARIAL EXAMPLES
+Ian J. Goodfellow, Jonathon Shlens & Christian Szegedy
+https://arxiv.org/pdf/1412.6572.pdf
+
+
 
 # C. Language Models, Text and Document Classification using Deep Learning
 1. Sequence to Sequence Learning with Neural Networks
